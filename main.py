@@ -6,3 +6,5 @@ if gat == 'sim':
   conversao(boi)
 else:
   print("!!!!")
+  print("teste")
+  
